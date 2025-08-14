@@ -1,28 +1,45 @@
+<!-- Hero header (avatar + intro) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+  <table>
+    <tr>
+      <!-- Avatar -->
+      <td width="180" align="center" valign="middle">
+        <a href="https://github.com/DanGlChris">
+          <img
+            src="https://media.licdn.com/dms/image/v2/D4D03AQHXXMeNBZ6DUw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1679738998504?e=1758153600&v=beta&t=Y1B2Ooarw3h6SDXuTCbZb3-cJeiyOKQr7cbOQ4cyaeI"
+            width="150"
+            alt="Daglox Kankwanda"
+            style="border-radius:50%; border: 2px solid rgba(200, 200, 200, 1);"
+          />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <div>
+          <h1>Hi there, I'm Daglox Kankwanda
+          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" alt="wave" /></h1>
+          <h3>Electrical & Software Engineer bridging the gap between hardware, software, and AI.</h3>
+          <p>
+            <a href="https://github.com/DanGlChris">
+              <img
+                src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=4000&pause=500&color=1255A0&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Generative+AI;Robotics+%26+Control+Systems;High-Performance+C%2B%2B+%2F+Python;Full-Stack+Java+Development"
+                alt="Typing SVG"
+              />
+            </a>
+          </p>
+          <p>
+            <a href="https://linkedin.com/in/daglox-kankwanda-59a617182"><img src="https://img.shields.io/badge/LinkedIn-Daglox%20Kankwanda-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+            <a href="https://www.danglchris.com"><img src="https://img.shields.io/badge/Website-danglchris.com-FF6F00?style=flat&logo=google-chrome&logoColor=white"></a>
+            <a href="hhttps://huggingface.co/DanGlChris/activity/models"><img src="https://img.shields.io/badge/HuggingFace-Models-FCC624?style=flat&logo=huggingface&logoColor=black"></a>
+            <a href="https://pypi.org/project/short-activist-predictor/"><img src="https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat&logo=pypi&logoColor=white"></a>
+            <a href="https://www.kaggle.com/dagloxkankwanda"><img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
+            <a href="https://zindi.africa/users/danglchris"><img src="https://img.shields.io/badge/Zindi-Competitions-000000?style=flat"></a>
+            <img src="https://komarev.com/ghpvc/?username=DanGlChris&style=flat&color=1255A0" alt="views">
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<h1 align="center">Hi there, I'm Daglox Kankwanda 👋</h1>
-<h3 align="center">Software Engineer bridging the gap between hardware, software, and AI.</h3>
-
-<p align="center">
-  <a href="https://github.com/DanGlChris">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=23&duration=4000&pause=500&color=1255A0&center=true&vCenter=true&width=800&lines=Machine+Learning+%26+Generative+AI;Robotics+%26+Control+Systems;High-Performance+C%2B%2B+%2F+Python;Full-Stack+Java+Development" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/daglox-kankwanda-59a617182"><img src="https://img.shields.io/badge/LinkedIn-Daglox%20Kankwanda-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.danglchris.com"><img src="https://img.shields.io/badge/Website-danglchris.com-FF6F00?style=flat&logo=google-chrome&logoColor=white"></a>
-  <a href="https://huggingface.co/USERNAME"><img src="https://img.shields.io/badge/HuggingFace-Models-FCC624?style=flat&logo=huggingface&logoColor=black"></a>
-  <a href="https://pypi.org/project/PACKAGE_NAME/"><img src="https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat&logo=pypi&logoColor=white"></a>
-  <a href="https://kaggle.com/USERNAME"><img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
-  <a href="https://zindi.africa/users/USERNAME"><img src="https://img.shields.io/badge/Zindi-Competitions-000000?style=flat"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanGlChris&style=flat&color=1255A0" alt="views">
-</p>
 
 ---
 
