@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dagloxkankwanda@protonmail.com"><img src="https://img.shields.io/badge/Email-dagloxkankwanda%40protonmail.com-1255A0?style=flat&logo=protonmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/daglox-kankwanda-59a617182"><img src="https://img.shields.io/badge/LinkedIn-Daglox%20Kankwanda-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://www.danglchris.com"><img src="https://img.shields.io/badge/Website-danglchris.com-FF6F00?style=flat&logo=google-chrome&logoColor=white"></a>
   <a href="https://huggingface.co/USERNAME"><img src="https://img.shields.io/badge/HuggingFace-Models-FCC624?style=flat&logo=huggingface&logoColor=black"></a>
