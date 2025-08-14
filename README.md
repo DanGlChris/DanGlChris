@@ -246,7 +246,6 @@ I thrive at the intersection of these engineering domains, building complete, in
 ---
 
 ### 🤝 Let’s Connect
-- Email: <a href="mailto:dagloxkankwanda@protonmail.com">dagloxkankwanda@protonmail.com</a>
 - LinkedIn: <a href="https://linkedin.com/in/daglox-kankwanda-59a617182">Daglox Kankwanda</a>
 - Website: <a href="https://www.danglchris.com">danglchris.com</a>
 
