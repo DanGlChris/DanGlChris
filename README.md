@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Daglox Kankwanda 👋</h1>
-<h3 align="center">High-Performance Software Engineer bridging the gap between hardware, software, and AI.</h3>
+<h3 align="center">Software Engineer bridging the gap between hardware, software, and AI.</h3>
 
 <p align="center">
   <a href="https://github.com/DanGlChris">
@@ -15,12 +15,24 @@
 
 ### 📊 My Core Competencies
 
-This chart visualizes my expertise across key engineering domains. I thrive at the intersection of these fields, building complete, intelligent systems from the ground up.
+I thrive at the intersection of these engineering domains, building complete, intelligent systems from the ground up.
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Machine Learning','Robotics & Control','Backend Dev','C++/Performance','Hardware/PCB Design'],datasets:[{label:'Skill Level',data:[95,90,80,90,85],backgroundColor:'rgba(18, 85, 160, 0.4)',borderColor:'rgba(249, 127, 52, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{scale:{ticks:{beginAtZero:true,max:100,backdropColor:'transparent',fontColor:'white'},pointLabels:{fontColor:'white',fontSize:12},gridLines:{color:'rgba(255, 255, 255, 0.2)'},angleLines:{color:'rgba(255, 255, 255, 0.2)'}},legend:{labels:{fontColor:'white'}}}}" alt="Skills Radar Chart" width="550"/>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <h3>Machine Learning</h3>
+      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Data Engineering','Feature Engineering','SOTA Implementation','Model Optimization','Deployment'],datasets:[{label:'Mastery',data:[85,95,95,90,80],backgroundColor:'rgba(18, 85, 160, 0.4)',borderColor:'rgba(249, 127, 52, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{scale:{ticks:{beginAtZero:true,max:100,backdropColor:'transparent',fontColor:'white'},pointLabels:{fontColor:'white',fontSize:12},gridLines:{color:'rgba(255, 255, 255, 0.2)'},angleLines:{color:'rgba(255, 255, 255, 0.2)'}},legend:{display:false}}}" alt="ML Skills Chart" width="280"/>
+    </td>
+    <td align="center">
+      <h3>Robotics & Control</h3>
+      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['PCB Design Fab','Firmware Cpp','Control Systems','Sys Integration','Mechanical CAD'],datasets:[{label:'Mastery',data:[90,95,85,80,85],backgroundColor:'rgba(18, 85, 160, 0.4)',borderColor:'rgba(249, 127, 52, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{scale:{ticks:{beginAtZero:true,max:100,backdropColor:'transparent',fontColor:'white'},pointLabels:{fontColor:'white',fontSize:12},gridLines:{color:'rgba(255, 255, 255, 0.2)'},angleLines:{color:'rgba(255, 255, 255, 0.2)'}},legend:{display:false}}}" alt="Robotics Skills Chart" width="280"/>
+    </td>
+    <td align="center">
+      <h3>Software Engineering</h3>
+      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['API Design','Java Backend','Python Backend','Low-Level Cpp','Architecture'],datasets:[{label:'Mastery',data:[90,75,85,95,90],backgroundColor:'rgba(18, 85, 160, 0.4)',borderColor:'rgba(249, 127, 52, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{scale:{ticks:{beginAtZero:true,max:100,backdropColor:'transparent',fontColor:'white'},pointLabels:{fontColor:'white',fontSize:12},gridLines:{color:'rgba(255, 255, 255, 0.2)'},angleLines:{color:'rgba(255, 255, 255, 0.2)'}},legend:{display:false}}}" alt="Software Engineering Skills Chart" width="280"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ My Tech Stack
@@ -29,32 +41,32 @@ A selection of tools and technologies I use to build robust, efficient solutions
 
 <p align="center">
   <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="18"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="18"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="18"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" height="18"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="18"/>
   <br><br>
   <strong>AI / Machine Learning:</strong><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="18"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="18"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="18"/>
+  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" height="18"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="18"/>
   <br><br>
   <strong>Backend & DevOps:</strong><br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" height="18"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="18"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="18"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" height="18"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="18"/>
   <br><br>
   <strong>Hardware & Robotics:</strong><br>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" alt="ROS" height="18"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" height="18"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="18"/>
+  <img src="https://img.shields.io/badge/Altium-A5915F?style=flat&logo=altiumdesigner&logoColor=white" alt="Altium" height="18"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake" height="18"/>
 </p>
 
 ---
