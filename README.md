@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Daglox Kankwanda 👋</h1>
-<h3 align="center">Software Engineer bridging the gap between hardware, software, and AI.</h3>
+<h3 align="center">High-Performance Software Engineer bridging the gap between hardware, software, and AI.</h3>
 
 <p align="center">
   <a href="https://github.com/DanGlChris">
@@ -21,18 +21,19 @@ I thrive at the intersection of these engineering domains, building complete, in
   <tr>
     <td align="center">
       <h3>Machine Learning</h3>
-      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Data Engineering','Feature Engineering','SOTA Implementation','Model Optimization','Deployment'],datasets:[{label:'Mastery',data:[85,95,95,90,80],backgroundColor:'rgba(18, 85, 160, 0.4)',borderColor:'rgba(249, 127, 52, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{scale:{ticks:{beginAtZero:true,max:100,backdropColor:'transparent',fontColor:'white'},pointLabels:{fontColor:'white',fontSize:12},gridLines:{color:'rgba(255, 255, 255, 0.2)'},angleLines:{color:'rgba(255, 255, 255, 0.2)'}},legend:{display:false}}}" alt="ML Skills Chart" width="280"/>
+      <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Data%20Engineering%27%2C%27Feature%20Engineering%27%2C%27SOTA%20Implementation%27%2C%27Model%20Optimization%27%2C%27Deployment%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Mastery%27%2Cdata%3A%5B85%2C95%2C95%2C90%2C80%5D%2CbackgroundColor%3A%27rgba(18%2C%2085%2C%20160%2C%200.4)%27%2CborderColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2CbackdropColor%3A%27transparent%27%2CfontColor%3A%27white%27%7D%2CpointLabels%3A%7BfontColor%3A%27white%27%2CfontSize%3A12%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D" alt="ML Skills Chart" width="280"/>
     </td>
     <td align="center">
       <h3>Robotics & Control</h3>
-      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['PCB Design Fab','Firmware Cpp','Control Systems','Sys Integration','Mechanical CAD'],datasets:[{label:'Mastery',data:[90,95,85,80,85],backgroundColor:'rgba(18, 85, 160, 0.4)',borderColor:'rgba(249, 127, 52, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{scale:{ticks:{beginAtZero:true,max:100,backdropColor:'transparent',fontColor:'white'},pointLabels:{fontColor:'white',fontSize:12},gridLines:{color:'rgba(255, 255, 255, 0.2)'},angleLines:{color:'rgba(255, 255, 255, 0.2)'}},legend:{display:false}}}" alt="Robotics Skills Chart" width="280"/>
+      <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27PCB%20Design%20%26%20Fab%27%2C%27Firmware%20C%2B%2B%27%2C%27Control%20Systems%27%2C%27Sys%20Integration%27%2C%27Mechanical%20CAD%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Mastery%27%2Cdata%3A%5B90%2C95%2C85%2C80%2C85%5D%2CbackgroundColor%3A%27rgba(18%2C%2085%2C%20160%2C%200.4)%27%2CborderColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2CbackdropColor%3A%27transparent%27%2CfontColor%3A%27white%27%7D%2CpointLabels%3A%7BfontColor%3A%27white%27%2CfontSize%3A12%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D" alt="Robotics Skills Chart" width="280"/>
     </td>
     <td align="center">
       <h3>Software Engineering</h3>
-      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['API Design','Java Backend','Python Backend','Low-Level Cpp','Architecture'],datasets:[{label:'Mastery',data:[90,75,85,95,90],backgroundColor:'rgba(18, 85, 160, 0.4)',borderColor:'rgba(249, 127, 52, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{scale:{ticks:{beginAtZero:true,max:100,backdropColor:'transparent',fontColor:'white'},pointLabels:{fontColor:'white',fontSize:12},gridLines:{color:'rgba(255, 255, 255, 0.2)'},angleLines:{color:'rgba(255, 255, 255, 0.2)'}},legend:{display:false}}}" alt="Software Engineering Skills Chart" width="280"/>
+      <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27API%20Design%27%2C%27Java%20Backend%27%2C%27Python%20Backend%27%2C%27Low-Level%20C%2B%2B%27%2C%27Architecture%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Mastery%27%2Cdata%3A%5B90%2C75%2C85%2C95%2C90%5D%2CbackgroundColor%3A%27rgba(18%2C%2085%2C%20160%2C%200.4)%27%2CborderColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2CbackdropColor%3A%27transparent%27%2CfontColor%3A%27white%27%7D%2CpointLabels%3A%7BfontColor%3A%27white%27%2CfontSize%3A12%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D" alt="Software Engineering Skills Chart" width="280"/>
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🛠️ My Tech Stack
