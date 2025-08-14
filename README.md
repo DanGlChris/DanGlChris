@@ -3,12 +3,37 @@
 </div>
 
 <h1 align="center">Hi there, I'm Daglox Kankwanda 👋</h1>
-<h3 align="center">High-Performance Software Engineer bridging the gap between hardware, software, and AI.</h3>
+<h3 align="center">Software Engineer bridging the gap between hardware, software, and AI.</h3>
 
 <p align="center">
   <a href="https://github.com/DanGlChris">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=23&duration=4000&pause=500&color=1255A0&center=true&vCenter=true&width=800&lines=Machine+Learning+%26+Generative+AI;Robotics+%26+Control+Systems;High-Performance+C%2B%2B+%2F+Python;Full-Stack+Java+Development" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <a href="mailto:dagloxkankwanda@protonmail.com"><img src="https://img.shields.io/badge/Email-dagloxkankwanda%40protonmail.com-1255A0?style=flat&logo=protonmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/daglox-kankwanda-59a617182"><img src="https://img.shields.io/badge/LinkedIn-Daglox%20Kankwanda-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.danglchris.com"><img src="https://img.shields.io/badge/Website-danglchris.com-FF6F00?style=flat&logo=google-chrome&logoColor=white"></a>
+  <a href="https://huggingface.co/USERNAME"><img src="https://img.shields.io/badge/HuggingFace-Models-FCC624?style=flat&logo=huggingface&logoColor=black"></a>
+  <a href="https://pypi.org/project/PACKAGE_NAME/"><img src="https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat&logo=pypi&logoColor=white"></a>
+  <a href="https://kaggle.com/USERNAME"><img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
+  <a href="https://zindi.africa/users/USERNAME"><img src="https://img.shields.io/badge/Zindi-Competitions-000000?style=flat"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanGlChris&style=flat&color=1255A0" alt="views">
+</p>
+
+---
+
+<p align="center">
+  <b>Navigation:</b>
+  <a href="#-machine-learning--generative-ai">ML/GenAI</a> •
+  <a href="#-robotics--control-systems">Robotics/Control System</a> •
+  <a href="#-software-engineering--back-end--hpc">Software Engineering</a> •
+  <a href="#-competitions-2025">Competitions 2025</a> •
+  <a href="#-featured-projects--packages">Projects & Packages</a>
 </p>
 
 ---
@@ -21,124 +46,213 @@ I thrive at the intersection of these engineering domains, building complete, in
   <tr>
     <td align="center">
       <h3>Machine Learning</h3>
-      <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Data%20Engineering%27%2C%27Feature%20Engineering%27%2C%27SOTA%20Implementation%27%2C%27Model%20Optimization%27%2C%27Deployment%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Mastery%27%2Cdata%3A%5B85%2C95%2C95%2C90%2C80%5D%2CbackgroundColor%3A%27rgba(18%2C%2085%2C%20160%2C%200.4)%27%2CborderColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2CbackdropColor%3A%27transparent%27%2CfontColor%3A%27white%27%7D%2CpointLabels%3A%7BfontColor%3A%27white%27%2CfontSize%3A12%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D" alt="ML Skills Chart" width="280"/>
+      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Data Engineering','Feature Engineering','SOTA Implementation','Model Optimization','Deployment'],datasets:[{label:'Mastery',data:[85,95,95,90,80],backgroundColor:'rgba(18, 85, 160, 0.25)',borderColor:'rgba(18, 85, 160, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{plugins:{legend:{display:false}},scales:{r:{suggestedMin:0,suggestedMax:100,angleLines:{color:'rgba(0,0,0,0.15)'},grid:{color:'rgba(0,0,0,0.1)'},pointLabels:{font:{size:11}}}}}" alt="ML Skills Chart" width="280"/>
     </td>
     <td align="center">
       <h3>Robotics & Control</h3>
-      <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27PCB%20Design%20%26%20Fab%27%2C%27Firmware%20C%2B%2B%27%2C%27Control%20Systems%27%2C%27Sys%20Integration%27%2C%27Mechanical%20CAD%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Mastery%27%2Cdata%3A%5B90%2C95%2C85%2C80%2C85%5D%2CbackgroundColor%3A%27rgba(18%2C%2085%2C%20160%2C%200.4)%27%2CborderColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2CbackdropColor%3A%27transparent%27%2CfontColor%3A%27white%27%7D%2CpointLabels%3A%7BfontColor%3A%27white%27%2CfontSize%3A12%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D" alt="Robotics Skills Chart" width="280"/>
+      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['PCB Design & Fab','Firmware (C/C++)','Control Systems','System Integration','Mechanical CAD'],datasets:[{label:'Mastery',data:[90,95,85,80,85],backgroundColor:'rgba(18, 85, 160, 0.25)',borderColor:'rgba(18, 85, 160, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{plugins:{legend:{display:false}},scales:{r:{suggestedMin:0,suggestedMax:100,angleLines:{color:'rgba(0,0,0,0.15)'},grid:{color:'rgba(0,0,0,0.1)'},pointLabels:{font:{size:11}}}}}" alt="Robotics Skills Chart" width="280"/>
     </td>
     <td align="center">
       <h3>Software Engineering</h3>
-      <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27API%20Design%27%2C%27Java%20Backend%27%2C%27Python%20Backend%27%2C%27Low-Level%20C%2B%2B%27%2C%27Architecture%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Mastery%27%2Cdata%3A%5B90%2C75%2C85%2C95%2C90%5D%2CbackgroundColor%3A%27rgba(18%2C%2085%2C%20160%2C%200.4)%27%2CborderColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%2CborderWidth%3A2%2CpointBackgroundColor%3A%27rgba(249%2C%20127%2C%2052%2C%201)%27%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2CbackdropColor%3A%27transparent%27%2CfontColor%3A%27white%27%7D%2CpointLabels%3A%7BfontColor%3A%27white%27%2CfontSize%3A12%7D%2CgridLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba(255%2C%20255%2C%20255%2C%200.2)%27%7D%7D%2Clegend%3A%7Bdisplay%3Afalse%7D%7D%7D" alt="Software Engineering Skills Chart" width="280"/>
+      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['API Design','Java Backend','Python Backend','Low-Level C++','Architecture'],datasets:[{label:'Mastery',data:[90,75,85,95,90],backgroundColor:'rgba(18, 85, 160, 0.25)',borderColor:'rgba(18, 85, 160, 1)',borderWidth:2,pointBackgroundColor:'rgba(249, 127, 52, 1)'}]},options:{plugins:{legend:{display:false}},scales:{r:{suggestedMin:0,suggestedMax:100,angleLines:{color:'rgba(0,0,0,0.15)'},grid:{color:'rgba(0,0,0,0.1)'},pointLabels:{font:{size:11}}}}}" alt="Software Engineering Skills Chart" width="280"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ My Tech Stack
+## 🤖 Machine Learning & Generative AI
 
-A selection of tools and technologies I use to build robust, efficient solutions.
-
-<p align="center">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="18"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="18"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="18"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" height="18"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="18"/>
-  <br><br>
-  <strong>AI / Machine Learning:</strong><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="18"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="18"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="18"/>
-  <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" height="18"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" height="18"/>
-  <br><br>
-  <strong>Backend & DevOps:</strong><br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" height="18"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="18"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="18"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" height="18"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="18"/>
-  <br><br>
-  <strong>Hardware & Robotics:</strong><br>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" alt="ROS" height="18"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" height="18"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="18"/>
-  <img src="https://img.shields.io/badge/Altium-A5915F?style=flat&logo=altiumdesigner&logoColor=white" alt="Altium" height="18"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake" height="18"/>
+<p>
+  <img src="https://img.shields.io/badge/Tabular-ML-1255A0?style=flat&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP-Transformers-ffcc00?style=flat&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/GeoAI-Sentinel--2-2ea44f?style=flat">
+  <img src="https://img.shields.io/badge/CV-Segmentation%2FDetection-f97316?style=flat&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/MLOps-Triton%20%7C%20ONNX%20%7C%20TensorRT-0f766e?style=flat&logo=nvidia&logoColor=white">
 </p>
 
----
+- Ranked Top 10%+ across multiple international challenges:
+  - Zindi PATH (Clinical Response NLP) — 22/387 (Top ~6%)
+  - ThinkOnward (Geophysics — Diffusion) — 27/386 (Top ~7%)
+  - Solafune (Vacant Lot Detection) — 32/447 (Top ~8%)
+  - Amini/NASA (Crop Type Classification — PRESTO) — 18/137
+  - Zindi (Soil Nutrients Multi-target Regression) — 26/308
+- Ship production-grade inference:
+  - FastAPI/Flask services → Triton Inference Server → ONNX/TensorRT where needed
+  - CI/CD (GitHub Actions), experiment tracking (MLflow/DVC), cloud (AWS SageMaker)
+- Specialties:
+  - Tabular: LightGBM/CatBoost/XGBoost, leakage-aware CV, SHAP
+  - NLP/LLM: PEFT/LoRA, instruction tuning, RAG, vector DBs (FAISS/pgvector)
+  - CV/GeoAI: YOLOv8/Mask DINO, U-Net/DeepLab, Rasterio/GDAL/GeoPandas, time-series embeddings (PRESTO)
 
-### 🚀 My Engineering Profiles
-
-I apply my skills across several domains. Click below to explore the profile that interests you most.
-
-<details>
-<summary><h2>🧠 Machine Learning Engineer</h2></summary>
-<br>
-I thrive in high-pressure competitive environments, consistently architecting top-tier solutions for complex AI challenges. My approach combines disciplined software engineering with deep knowledge of SOTA models.
-
-**🏆 Key Competitive Achievements (Top 10% on average):**
-- **Geophysical Data Challenge (ThinkOnward - Top 7%):** Developed a Generative Diffusion Model (ViT) to perform seismic velocity inversion from raw sensor data.
-- **Vacant Lot Detection (Solafune - Top 8%):** Built an instance segmentation pipeline with YOLOv8-seg and Mask DINO to identify vacant lots from aerial imagery.
-- **AI for Healthcare (Zindi/PATH - Top 6%):** Fine-tuned GPT-4 on a low-resource dataset of 400 clinical vignettes to predict clinician responses in rural Kenya.
-- **Crop Classification (Zindi/Amini - Top 14%):** Fine-tuned NASA's PRESTO Geospatial Foundation Model for crop classification using Sentinel-2 satellite data and Google Earth Engine.
-
-**🔬 Core Project:**
-- **Fuzzy SVM Classifier (C++/Python):** Building a novel classification algorithm from an Arxiv paper, implementing a C++ core with a Python wrapper to handle highly imbalanced and noisy data.
-</details>
-
-<details>
-<summary><h2>🤖 Robotics & Control Systems Engineer</h2></summary>
-<br>
-I design, build, and program intelligent physical systems. My background in electrical engineering allows me to bridge the gap between firmware, hardware, and high-level control software.
-
-**🔧 Key Projects:**
-- **High-Precision Stepper Motor Controller:** Designed, fabricated, and tested a complete hardware/software system. Wrote C++ firmware for an ATmega32U4, designed the PCB in Altium, and created a Python GUI for control. Authored a detailed technical paper on the system.
-- **Autonomous Rover (ROS):** Installed and configured ROS on a Raspberry Pi, developing C++ firmware on an Arduino to control motors and enable seamless integration. Performed extensive hardware repair and troubleshooting.
-- **Autonomous Transport System:** Developed Python control logic for a 3-axis robotic crane and conveyor system, using OpenCV for real-time object detection and tracking.
-- **Water Cleaning Boat:** Led a team to build an autonomous boat, designing the circuitry in Proteus and programming the C++ control logic on an Arduino.
-</details>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28"/>
+</div>
 
 <details>
-<summary><h2>💻 High-Performance Software Engineer</h2></summary>
-<br>
-I build robust, scalable, and efficient software. My expertise spans from creating performance-critical libraries in C++ to deploying full-stack Java applications and Python backend services.
+  <summary><b>Featured wins & methods</b></summary>
 
-**🛠️ Key Projects & Experience:**
-- **REST API Service (Internship):** Architected and deployed a **Flask REST API** to serve model predictions, engineering a full CI/CD pipeline with GitHub Actions for automated deployment.
-- **High-Performance C++/Python Library:** Built a Fuzzy SVM classifier with a core algorithm in C++, packaged as a distributable **wheel (.whl)** for seamless `pip install` integration.
-- **Full-Stack Java Applications:**
-  - **H2O Provider:** An MVC-based desktop app for data management with a centralized SQLite database.
-  - **Transky:** A real-time translation widget consuming the Google Translate **REST API**.
-  - **Geodes:** A geometric modeling tool with custom 2D/3D rendering algorithms.
-- **Competitive Programming (Python):** Architected solutions for AI competitions using reusable modules and well-defined classes, demonstrating strong OOP and system design under pressure.
+- PATH (Zindi) — Few-shot on 400 cases: PEFT/LoRA on open LLMs, prompt ensembles; used GPT-4 API for rubric-aligned eval; rank 22/387.
+- ThinkOnward — Conditional diffusion (ViT-U-Net) for velocity inversion; reproducible .npz pipeline; inference under 1h on g5.12xlarge; rank 27/386.
+- Solafune — YOLOv8-seg + Mask DINO; tiling and post-processing; Rasterio/GDAL geospatial alignment; rank 32/447.
+- Amini/NASA — PRESTO embeddings + balanced classifier; improved macro-F1 vs baseline; rank 18/137.
+- Soil Nutrients — Multi-target regression; feature engineering with environmental and soil features; spatial CV; rank 26/308.
 </details>
 
 ---
 
-### 📈 My GitHub Stats
+## 🦾 Robotics & Control Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Embedded-C/C++-1255A0?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS-ROS/ROS2-22314E?style=flat&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/Edge-CV-ff5722?style=flat&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/Protocols-UART%20%7C%20I2C%20%7C%20SPI-0ea5e9?style=flat">
+  <img src="https://img.shields.io/badge/PCB-Altium%20%7C%20EasyEDA-22c55e?style=flat">
+</p>
+
+- Built autonomous pick-and-place crane (OpenCV + RPi GPIO) with conveyor sequencing and electromagnet control
+- Rover: ROS on Raspberry Pi, 6-wheel drive via IBT-2, RC (FlySky) integration
+- Industrial motion control prototype: ATmega32U4 + TMC2130 + NEMA17; custom PCB in Altium; Python GUI host
+- Industrial automation exposure: SCADA, TIA Portal, DriveLab
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altiumdesigner/altiumdesigner-plain.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="28"/>
+</div>
+
+<details>
+  <summary><b>Highlights & metrics</b></summary>
+
+- Motion control: SPI driver config (microstepping/current), StealthChop/SpreadCycle; ≤0.01° commanded step resolution; >20% power savings via CoolStep
+- Edge CV: center-point detection for grasping; reduced cycle time and missed picks via optimized motion sequences
+- ROS telemetry: real-time IP streaming; robust hardware bring-up and troubleshooting (drivers, batteries, receivers)
+</details>
+
+---
+
+## 🧩 Software Engineering (Back-end & HPC)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-FastAPI%2FFlask-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20SQLite-336791?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Packaging-Python%20Wheels-5c2d91?style=flat&logo=pypi&logoColor=white">
+</p>
+
+- REST services (FastAPI/Flask, Spring Boot), clean architecture, testing, Dockerized deployment
+- Data engineering pipelines (Selenium/scrapy → Pandas), job scheduling, logging/monitoring
+- CPython C-API experience for packaging C++ into Python wheels
+- Built and published open-source modules (PyPI) and models (Hugging Face)
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28"/>
+</div>
+
+<details>
+  <summary><b>Representative work</b></summary>
+
+- PyPI package + HF model for financial text analysis; CI/CD with GitHub Actions
+- Flask/FastAPI inference endpoints for ML models; request validation, auth, logging
+- JavaFX desktop tools (H2O Provider, Transky, Geodes) with SQLite/JDBC and MVC
+</details>
+
+---
+
+## 🏆 Competitions (2025)
+
+<p>
+  <img src="https://img.shields.io/badge/ThinkOnward-Geophysics%20(Top%207%25)-1255A0?style=flat">
+  <img src="https://img.shields.io/badge/Solafune-CV%20(Top%208%25)-f97316?style=flat">
+  <img src="https://img.shields.io/badge/Zindi-GeoFM%20(Top%2014%25)-22c55e?style=flat">
+  <img src="https://img.shields.io/badge/Zindi-PATH%20NLP%20(Top%206%25)-0ea5e9?style=flat">
+  <img src="https://img.shields.io/badge/Zindi-Soil%20Regression%20(Top%208%25)-8b5cf6?style=flat">
+</p>
+
+- ThinkOnward — Seismic Velocity Inversion (Diffusion), Rank 27/386
+- Solafune — Vacant Lot Detection (Segmentation/Detection), Rank 32/447
+- Amini/NASA — Crop Type Classification with PRESTO, Rank 18/137
+- PATH (Zindi) — Clinician Response Prediction (NLP/LLM), Rank 22/387
+- Soil Nutrients (Zindi) — Multi-target Regression, Rank 26/308
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanGlChris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Daglox's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGlChris&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" height="150"/>
+  <img alt="Competition Score Percentiles" width="720"
+    src="https://quickchart.io/chart?c={type:'bar',data:{labels:['ThinkOnward','Solafune','Amini/NASA','PATH','Soil Nutrients'],datasets:[{label:'Percentile (higher is better)',data:[93,92.8,86.9,94.3,91.6],backgroundColor:['#1255A0','#F97F34','#22C55E','#0EA5E9','#8B5CF6']} ]},options:{plugins:{legend:{display:false}},scales:{y:{beginAtZero:true,max:100}}}}">
 </p>
 
 ---
 
-### 📫 Let's Connect!
+## 📦 Featured Projects & Packages
+
+- Short Activist Predictor — Python module (PyPI) + model (Hugging Face)
+  - Topic modeling (BERTopic), classifiers (scikit-learn), packaging (PyScaffold), CI/CD (GitHub Actions)
+  - Links: [PyPI](https://pypi.org/project/PACKAGE_NAME/) • [Model](https://huggingface.co/USERNAME/MODEL_NAME) • [Repo](https://github.com/DanGlChris/REPO_NAME)
+- GeoFM Crop Classification — PRESTO embeddings + classifier (Amini/NASA challenge)
+  - Timeseries Sentinel-2; class imbalance handling; geospatial tooling (Rasterio/GDAL)
+  - Link: [Report/Repo](https://github.com/DanGlChris/REPO_GEOFMS)
+- Vacant Lot Detection — YOLOv8-seg / Mask DINO pipeline
+  - Tiling, augmentations, post-processing, georeferencing
+  - Link: [Repo](https://github.com/DanGlChris/REPO_VACANTLOTS)
+- Seismic Velocity Inversion — Diffusion model (ThinkOnward)
+  - Conditional diffusion with ViT-U-Net; reproducible .npz submissions; AWS g5.12xlarge inference
+  - Link: [Repo](https://github.com/DanGlChris/REPO_SEISMIC)
+- Transky — Real-time speech transcription/translation (JavaFX)
+  - Link: [Repo](https://github.com/DanGlChris/Transky)
+
+---
+
+## 🎓 Certifications & Publications
+
+- NVIDIA DLI — Deploying Models for Inference with Triton (2025)
+- Data Science — Analyze Data with Python (2021)
+- Technical Report — “GeoFM for Crop Classification” (2025)
+- Dataset & Notebook — “Startup Failure Analysis,” Kaggle (2025)
+- Hackathon — HAGORA HACK (3rd Place), 2022
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=DanGlChris&show_icons=true&hide_border=true&count_private=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGlChris&layout=compact&hide_border=true&langs_count=8" height="150" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=DanGlChris&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DanGlChris&theme=flat&no-frame=true&row=1&column=6" height="150" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/daglox-kankwanda-59a617182">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.danglchris.com">
-    <img src="https://img.shields.io/badge/Website-F97F34?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
-  </a>
-  <a href="mailto:dagloxkankwanda@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-8B8B8B?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanGlChris&hide_border=true&theme=github-compact" alt="activity graph" />
 </p>
+
+---
+
+### 🤝 Let’s Connect
+- Email: <a href="mailto:dagloxkankwanda@protonmail.com">dagloxkankwanda@protonmail.com</a>
+- LinkedIn: <a href="https://linkedin.com/in/daglox-kankwanda-59a617182">Daglox Kankwanda</a>
+- Website: <a href="https://www.danglchris.com">danglchris.com</a>
+
+<sub>Languages: 🇫🇷 French (Native) • 🇨🇩 Lingala (Native) • 🇬🇧 English • 🇷🇺 Russian</sub>
