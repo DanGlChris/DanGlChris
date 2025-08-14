@@ -61,75 +61,87 @@ I thrive at the intersection of these engineering domains, building complete, in
 
 ---
 
-## Machine Learning
+## Machine Learning & Generative AI
 <p>
-  <img src="https://img.shields.io/badge/Tabular-ML-1255A0?style=flat&logo=scikitlearn&logoColor=white" alt="Tabular ML Badge">
-  <img src="https://img.shields.io/badge/NLP-Transformers-ffcc00?style=flat&logo=huggingface&logoColor=black" alt="NLP Badge">
-  <img src="https://img.shields.io/badge/GeoAI-Sentinel--2-2ea44f?style=flat" alt="GeoAI Badge">
-  <img src="https://img.shields.io/badge/CV-Segmentation%2FDetection-f97316?style=flat&logo=opencv&logoColor=white" alt="Computer Vision Badge">
-  <img src="https://img.shields.io/badge/MLOps-Triton%20%7C%20ONNX%20%7C%20TensorRT-0f766e?style=flat&logo=nvidia&logoColor=white" alt="MLOps Badge">
+  <img src="https://img.shields.io/badge/GenAI-Diffusion%20Models-blueviolet?style=flat&logo=pytorch&logoColor=white" alt="Generative AI Badge">
+  <img src="https://img.shields.io/badge/NLP-LLMs%20%7C%20Transformers-ffcc00?style=flat&logo=huggingface&logoColor=white" alt="NLP Badge">
+  <img src="https://img.shields.io/badge/CV-Segmentation%20%7C%20Detection-f97316?style=flat&logo=opencv&logoColor=white" alt="Computer Vision & GeoAI Badge">
+  <img src="https://img.shields.io/badge/MLOps-Triton%20%7C%20SageMaker-0f766e?style=flat&logo=nvidia&logoColor=white" alt="MLOps Badge">
+  <img src="https://img.shields.io/badge/Tabular%20Regression%20%7C%20Classification%20%7C%20Forecasting-Multi--Target%20%7C%20Time--Series-1255A0?style=flat&logo=scikitlearn&logoColor=white" alt="Tabular ML Badge">
 </p>
 
--   **Proven Performance:** Ranked in the top 10% across multiple international data science challenges in NLP, GeoAI, and more.
--   **Production-Ready MLOps:** Experienced in shipping production-grade inference pipelines using FastAPI/Flask, Triton Inference Server, ONNX/TensorRT, CI/CD with GitHub Actions, and experiment tracking with MLflow/DVC.
--   **Core Specialties:**
-    -   **Tabular:** LightGBM/CatBoost/XGBoost, leakage-aware cross-validation, and model explainability with SHAP.
-    -   **NLP/LLM:** PEFT/LoRA, instruction tuning, RAG, and vector databases (FAISS/pgvector).
-    -   **CV/GeoAI:** YOLOv8, Mask DINO, U-Net, Rasterio/GDAL, and time-series embeddings with PRESTO.
+I build and deploy high-performance models that solve real-world problems. My approach is validated by consistent top-tier performance in global data science competitions, where I've engineered end-to-end solutions for classification, regression, and forecasting challenges. This involves the full data lifecycle: acquiring and processing data from diverse diverse sources via APIs, extensive feature engineering, and implementing sophisticated models. I leverage everything from gradient boosting machines and neural networks to advanced techniques like ensembling and multi-stage training to tackle complex problems in NLP, Computer Vision, and Generative AI.
+
+-   **Battle-Tested Performance:** Consistently ranked in the **top 10%** across multiple international data science challenges on Zindi, Solafune, and ThinkOnward.
+-   **End-to-End MLOps:** Experienced in the full ML lifecycle, from data processing to building production-grade inference pipelines using **AWS SageMaker**, **NVIDIA Triton Inference Server**, ONNX/TensorRT, and CI/CD with GitHub Actions.
+-   **From Paper to Code:** Adept at reading scientific papers on novel deep learning methods and implementing them from scratch in PyTorch.
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"    height="28" alt="AWS"/>
+  <img src="https://img.icons8.com/?size=100&id=yqf95864UzeQ&format=png&color=000000" height="28" alt="Nvidia"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="28" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="OpenCV"/>
 </div>
 
 <details>
-  <summary><b>Featured Competition Methods</b></summary>
+  <summary><b>Featured Competition Methodologies</b></summary>
   
--   **PATH (Zindi) — Top 6%:** Few-shot learning on 400 clinical cases using PEFT/LoRA on open LLMs with prompt ensembles. Utilized GPT-4 API for rubric-aligned evaluation.
--   **ThinkOnward — Top 7%:** Conditional diffusion (ViT-U-Net) for geophysical velocity inversion. Built a reproducible `.npz` pipeline with inference under 1h on an AWS `g5.12xlarge` instance.
--   **Solafune — Top 8%:** Deployed a hybrid pipeline of YOLOv8-seg and Mask DINO, enhanced with tiling and advanced post-processing for geospatial alignment using Rasterio/GDAL.
--   **Amini/NASA — Top 14%:** Leveraged PRESTO embeddings with a balanced classifier to significantly improve macro-F1 score over the baseline for crop type classification.
+-   **Generative AI for Geophysics (ThinkOnward) — Top 7%:** Developed a conditional **Generative Diffusion Model** (GDM) with a ViT-U-Net architecture to perform seismic velocity inversion. Delivered a fully reproducible pipeline optimized to run inference in under 1 hour on an AWS `g5.12xlarge` instance.
+-   **Clinical NLP (PATH / Zindi) — Top 6%:** Fine-tuned a Large Language Model on a small, high-stakes dataset of clinical vignettes using **PEFT/LoRA** and advanced prompt engineering to replicate the decision-making of medical experts.
+-   **Geospatial CV (Solafune) — Top 8%:** Built a segmentation pipeline using a **U-Net** architecture with a ResNet backbone to detect vacant lots from aerial imagery, leveraging tiling strategies and **Rasterio/GDAL** for post-processing.
+-   **Geospatial Time-Series (Amini/NASA / Zindi) — Top 14%:** Utilized the **PRESTO** Geospatial Foundation Model to generate powerful embeddings from Sentinel-2 satellite time-series data, enabling accurate crop classification.
 </details>
+
 
 ---
 
-## Robotics & Control Systems
+# Robotics & Control Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Embedded-C/C++-1255A0?style=flat&logo=c%2B%2B&logoColor=white" alt="Embedded C++ Badge">
-  <img src="https://img.shields.io/badge/ROS-ROS/ROS2-22314E?style=flat&logo=ros&logoColor=white" alt="ROS Badge">
-  <img src="https://img.shields.io/badge/Edge-CV-ff5722?style=flat&logo=raspberrypi&logoColor=white" alt="Edge CV Badge">
+    <img src="https://img.shields.io/badge/Precision%20Motion-TMC%20Drivers%20%7C%20Stepper-8b5cf6?style=flat" alt="Precision Motion Control Badge">
+  <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-1255A0?style=flat&logo=c%2B%2B&logoColor=white" alt="Embedded C++ Badge">
+  <img src="https://img.shields.io/badge/ROS-Real--Time%20Control-22314E?style=flat&logo=ros&logoColor=white" alt="ROS Badge">
+  <img src="https://img.shields.io/badge/Edge%20AI-CV%20on%20RPi-ff5722?style=flat&logo=raspberrypi&logoColor=white" alt="Edge AI Badge">
+  <img src="https://img.shields.io/badge/CAD%20%7C%20PCB-SolidWorks%20%7C%20Altium%20%7C%20EasyEDA-22c55e?style=flat" alt="CAD/PCB Badge">
   <img src="https://img.shields.io/badge/Protocols-UART%20%7C%20I2C%20%7C%20SPI-0ea5e9?style=flat" alt="Protocols Badge">
-  <img src="https://img.shields.io/badge/PCB-Altium%20%7C%20EasyEDA-22c55e?style=flat" alt="PCB Design Badge">
 </p>
 
--   Designed and built an autonomous pick-and-place crane using OpenCV on a Raspberry Pi for object detection, controlling motion and sequencing with GPIO.
--   Developed a 6-wheel drive rover with ROS on Raspberry Pi, integrating motor drivers (IBT-2) and RC control (FlySky).
--   Engineered an industrial motion control prototype from the ground up: ATmega32U4 firmware, custom PCB in Altium, and a Python GUI host.
+My background as an Electrical Engineer allow me to bridge the digital and physical worlds by designing, building, and programming intelligent electromechanical systems from concept to completion. I don't just connect components; I engineer the software that makes them work in concert.
+
+-   **Precision Motion Control:** Mastered high-precision stepper motor control using advanced Trinamic drivers like the **TMC2130**. I develop firmware that leverages **SPI** to configure sophisticated features like microstepping, sensorless feedback (StallGuard™), and silent operation (StealthChop™) for NEMA-class motors.
+-   **Industrial Automation & Control:** Proficient in programming **Siemens PLCs** using **TIA Portal** and developing Human-Machine Interfaces (HMIs) with **SCADA** systems. Experienced in designing and commissioning automated sequences for industrial machinery and drive systems via platforms like **DriveLab**.
+-   **Firmware & Sensor Integration:** Authored custom firmware drivers in **C/C++** for AVR and ARM microcontrollers to establish direct IC-level communication. I write the software that interfaces with a diverse range of sensors—including IMUs, temperature sensors, and magnetic encoders—and orchestrates complex, event-driven actuator sequences.
+-   **System Architecture & Edge AI:** Architected complete robotic systems by integrating high-level logic (**Python, ROS**) with low-level hardware control. Deployed **OpenCV** on Raspberry Pi for real-time vision tasks, creating a closed-loop system where sensor data directly informs control logic.
+-   **System Design & Simulation:** Proficient in creating complex 3D models and assemblies for industrial and robotic systems using **AutoCAD, SolidWorks,** and **Inventor**. I validate system dynamics and control logic through advanced simulation in **MATLAB/Simulink** before taking designs from schematic to reality, laying out custom multi-layer PCBs in **Altium Designer** for robust and reliable control boards.
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="28" alt="Raspberry Pi"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="28" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="28" alt="ROS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="28" alt="SolidWorks"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altiumdesigner/altiumdesigner-plain.svg" height="28" alt="Altium Designer"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="28" alt="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="32" alt="ROS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="32" alt="Raspberry Pi"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="Arduino"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" alt="OpenCV"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="28" alt="CMake"/>
+  <img src="https://cdn.simpleicons.org/siemens/009999" height="32" alt="Siemens PLC"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" alt="MATLAB"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/autodesk/0696D7" height="32" alt="Autodesk (AutoCAD/Inventor)"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="32" alt="SolidWorks"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altiumdesigner/altiumdesigner-original.svg" height="32" alt="Altium Designer"/>
 </div>
 
 <details>
-  <summary><b>Technical Highlights</b></summary>
-  
--   **Precision Motion Control:** Configured stepper drivers via SPI for advanced features like microstepping and StealthChop, achieving ≤0.01° commanded step resolution and >20% power savings.
--   **Optimized Edge CV:** Implemented center-point detection for grasping, reducing cycle time and pick failures through optimized motion sequences.
--   **Robust ROS Telemetry:** Enabled real-time IP streaming for robust hardware bring-up and efficient debugging of drivers, power systems, and receivers.
+  <summary><b>Technical Project Highlights</b></summary>
+
+-   **High-Precision Industrial Manipulator Control System (<a href="https://www.linkedin.com/pulse/high-precision-control-system-industrial-manipulators-kankwanda-7hxac/">Final Academic Project </a>):** Designed, built, and validated a control system for industrial manipulators. Developed **C++** firmware for an ATmega32U4 to command a NEMA 17 motor via a **TMC2130** driver. The system allows real-time **SPI** control of torque, speed, and microstepping, while collecting diagnostic data for sensorless feedback using **StallGuard2**. Authored a comprehensive technical article detailing the architecture, validation, and performance. <a href="https://github.com/DanGlChris/Control-System-with-Stepper-Motor-and-TMC2130-">See Here</a>
+-   **Autonomous Pick-and-Place Crane:** Engineered an end-to-end autonomous transport system. The core logic involved real-time **OpenCV** object tracking on a Raspberry Pi, which commanded a 3-axis crane, conveyor belt, and electromagnetic actuator using optimized **Python** and GPIO sequencing.
+-   **Custom Flight Controller Drone:** Built and programmed a quadcopter drone from scratch. Developed custom flight control firmware in **C++/Arduino**, implementing PID loops for real-time stabilization based on data fused from an IMU (gyroscope & accelerometer), and managed motor speeds via ESCs based on RC controller inputs.
+-   **ROS-Enabled Reconnaissance Rover:** Revitalized a 6-wheel mobile robot by deploying a **ROS** stack on a Raspberry Pi for real-time telemetry and remote operation. Developed **C++/Arduino** firmware to interpret RC commands and precisely control multiple IBT-2 motor drivers in a differential drive configuration.
 </details>
 
 ---
