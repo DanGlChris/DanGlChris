@@ -1,14 +1,28 @@
 <!-- Hero header (avatar + intro) -->
-<div align="center"><a href="https://github.com/DanGlChris"><img src="https://media.licdn.com/dms/image/v2/D4D03AQHXXMeNBZ6DUw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1679738998504?e=1758153600&v=beta&t=Y1B2Ooarw3h6SDXuTCbZb3-cJeiyOKQr7cbOQ4cyaeI" width="150" alt="Daglox Kankwanda" style="border-radius:50%; border: 2px solid rgba(200, 200, 200, 1);"/></a><h1>Hi there, I'm Daglox Kankwanda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" alt="wave" /></h1><h3>Electrical & Software Engineer bridging the gap between hardware, software, and AI.</h3><p><a href="https://github.com/DanGlChris"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=4000&pause=500&color=1255A0&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Generative+AI;Robotics+%26+Control+Systems;High-Performance+C%2B%2B+%2F+Python;Full-Stack+Java+Development" alt="Typing SVG"/></a></p>
-<p>
-  <a href="https://linkedin.com/in/daglox-kankwanda-59a617182"><img src="https://img.shields.io/badge/LinkedIn-Daglox%20Kankwanda-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.danglchris.com"><img src="https://img.shields.io/badge/Website-danglchris.com-FF6F00?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"></a>
-  <a href="https://huggingface.co/DanGlChris"><img src="https://img.shields.io/badge/HuggingFace-Models-FCC624?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face Badge"></a>
-  <a href="https://pypi.org/project/short-activist-predictor/"><img src="https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat&logo=pypi&logoColor=white" alt="PyPI Badge"></a>
-  <a href="https://www.kaggle.com/dagloxkankwanda"><img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Badge"></a>
-  <a href="https://zindi.africa/users/danglchris"><img src="https://img.shields.io/badge/Zindi-Competitions-000000?style=flat" alt="Zindi Badge"></a>
-  <img src="https://komarev.com/ghpvc/?username=DanGlChris&style=flat&color=1255A0" alt="Profile Views">
-</p>
+<div align="center">
+    <img
+        alt="Daglox Kankwanda"
+        width="150"
+        height="150"
+        src="https://images.weserv.nl/?url=ssl:media.licdn.com/dms/image/v2/D4D03AQHXXMeNBZ6DUw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1679738998504%3Fe%3D1758153600%26v%3Dbeta%26t%3DY1B2Ooarw3h6SDXuTCbZb3-cJeiyOKQr7cbOQ4cyaeI&w=150&h=150&fit=cover&mask=ellipse&border=2,C8C8C8"
+    />
+    </a>
+    <h1>Hi there, I'm Daglox Kankwanda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" alt="wave" /></h1>
+    <h3>Electrical & Software Engineer bridging the gap between hardware, software, and AI.</h3>
+    <p>
+        <a href="https://github.com/DanGlChris">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=4000&pause=500&color=1255A0&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Generative+AI;Robotics+%26+Control+Systems;High-Performance+C%2B%2B+%2F+Python;Full-Stack+Java+Development" alt="Typing SVG"/>
+        </a>
+    </p>
+    <p>
+        <a href="https://linkedin.com/in/daglox-kankwanda-59a617182"><img src="https://img.shields.io/badge/LinkedIn-Daglox%20Kankwanda-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+        <a href="https://www.danglchris.com"><img src="https://img.shields.io/badge/Website-danglchris.com-FF6F00?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"></a>
+        <a href="https://huggingface.co/DanGlChris"><img src="https://img.shields.io/badge/HuggingFace-Models-FCC624?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face Badge"></a>
+        <a href="https://pypi.org/project/short-activist-predictor/"><img src="https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat&logo=pypi&logoColor=white" alt="PyPI Badge"></a>
+        <a href="https://www.kaggle.com/dagloxkankwanda"><img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Badge"></a>
+        <a href="https://zindi.africa/users/danglchris"><img src="https://img.shields.io/badge/Zindi-Competitions-000000?style=flat" alt="Zindi Badge"></a>
+        <img src="https://komarev.com/ghpvc/?username=DanGlChris&style=flat&color=1255A0" alt="Profile Views">
+    </p>
 </div>
 
 ---
@@ -24,7 +38,7 @@
 
 ---
 
-### 📊 My Core Competencies
+### My Core Competencies
 
 I thrive at the intersection of these engineering domains, building complete, intelligent systems from the ground up.
 
@@ -47,7 +61,7 @@ I thrive at the intersection of these engineering domains, building complete, in
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Tabular-ML-1255A0?style=flat&logo=scikitlearn&logoColor=white" alt="Tabular ML Badge">
   <img src="https://img.shields.io/badge/NLP-Transformers-ffcc00?style=flat&logo=huggingface&logoColor=black" alt="NLP Badge">
@@ -85,7 +99,7 @@ I thrive at the intersection of these engineering domains, building complete, in
 
 ---
 
-## 🦾 Robotics & Control Systems
+## Robotics & Control Systems
 
 <p>
   <img src="https://img.shields.io/badge/Embedded-C/C++-1255A0?style=flat&logo=c%2B%2B&logoColor=white" alt="Embedded C++ Badge">
@@ -120,7 +134,7 @@ I thrive at the intersection of these engineering domains, building complete, in
 
 ---
 
-## 🧩 Software Engineering (Back-end & HPC)
+## Software Engineering (Back-end & HPC)
 
 <p>
   <img src="https://img.shields.io/badge/Python-FastAPI%2FFlask-3776AB?style=flat&logo=python&logoColor=white" alt="Python Backend Badge">
@@ -214,7 +228,7 @@ I thrive at the intersection of these engineering domains, building complete, in
       </picture>
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=DanGlChris&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=DanGlChris&theme=flat&no-frame=true&row=2&column=4" width=300  alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
