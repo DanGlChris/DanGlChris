@@ -223,7 +223,7 @@ I develop robust, scalable, and efficient software solutions, with a deep expert
     -   *Links:* [Notebook](https://www.kaggle.com/code/dagloxkankwanda/startup-failures-overviews/notebook)• [Startup Failures Dataset](https://www.kaggle.com/datasets/dagloxkankwanda/startup-failures)
 -   **Short Activist Predictor** — A published Python module and Hugging Face model for financial text classification.
     -   *Tech:* **BERTopic, scikit-learn, PyScaffold, GitHub Actions (CI/CD), PyPI.**
-    -   *Links:* [PyPI Package](https://pypi.org/project/short-activist-predictor/) • [Hugging Face Model](https://huggingface.co/DanGlChris/short-activist-predictor) • [GitHub Repo](https://github.com/DanGlChris/short-activist-predictor)
+    -   *Links:* [PyPI Package](https://pypi.org/project/short-activist-predictor/) • [Hugging Face Model](https://huggingface.co/DanGlChris/short-activist-predictor) • [GitHub Repo](https://github.com/DanGlChris/short_activist_predictor)
 
 -   **High-Precision Industrial Manipulator** — My final academic project, a complete control system for industrial manipulators.
     -   *Tech:* **C++, Python (Qt5), ATmega32U4 Firmware, TMC2130 Driver, Nema, SPI, Control Theory, Inventor.**
