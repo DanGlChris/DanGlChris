@@ -54,7 +54,7 @@ I thrive at the intersection of these engineering domains, building complete, in
     </td>
     <td align="center">
       <strong>Software Engineering</strong><br/>
-      <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22API%20Design%22%2C%22Java%20Backend%22%2C%22Python%20Backend%22%2C%22Low-Level%20C**%22%2C%22Architecture%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Mastery%22%2C%22data%22%3A%5B79%2C86%2C95%2C72%2C82%5D%2C%22backgroundColor%22%3A%22rgba(18%2C%2085%2C%20160%2C%200.4)%22%2C%22borderColor%22%3A%22rgba(249%2C%20127%2C%2052%2C%201)%22%2C%22borderWidth%22%3A2%2C%22pointBackgroundColor%22%3A%22rgba(249%2C%20127%2C%2052%2C%201)%22%7D%5D%7D%2C%22options%22%3A%7B%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%2C%22backdropColor%22%3A%22transparent%22%2C%22fontColor%22%3A%22white%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22white%22%2C%22fontSize%22%3A18%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba(255%2C%20255%2C%20255%2C%200.2)%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba(255%2C%20255%2C%20255%2C%200.2)%22%7D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D" alt="Software Engineering Skills Chart" width="350"/>
+      <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22API%20Design%22%2C%22Java%20Backend%22%2C%22Python%20Backend%22%2C%22Low-Level%20(C%2B%2B)%22%2C%22Architecture%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Mastery%22%2C%22data%22%3A%5B79%2C86%2C95%2C72%2C82%5D%2C%22backgroundColor%22%3A%22rgba(18%2C%2085%2C%20160%2C%200.4)%22%2C%22borderColor%22%3A%22rgba(249%2C%20127%2C%2052%2C%201)%22%2C%22borderWidth%22%3A2%2C%22pointBackgroundColor%22%3A%22rgba(249%2C%20127%2C%2052%2C%201)%22%7D%5D%7D%2C%22options%22%3A%7B%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%2C%22backdropColor%22%3A%22transparent%22%2C%22fontColor%22%3A%22white%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22white%22%2C%22fontSize%22%3A18%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba(255%2C%20255%2C%20255%2C%200.2)%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba(255%2C%20255%2C%20255%2C%200.2)%22%7D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D" alt="Software Engineering Skills Chart" width="350"/>
     </td>
   </tr>
 </table>
@@ -63,11 +63,11 @@ I thrive at the intersection of these engineering domains, building complete, in
 
 ## Machine Learning & Generative AI
 <p>
-  <img src="https://img.shields.io/badge/GenAI-Diffusion%20Models-blueviolet?style=flat&logo=pytorch&logoColor=white" alt="Generative AI Badge">
+  <img src="https://img.shields.io/badge/Tabular%20Regression%20%7C%20Classification%20%7C%20Forecasting-Multi--Target%20%7C%20Time--Series-1255A0?style=flat&logo=scikitlearn&logoColor=white" alt="Tabular ML Badge">
+  <img src="https://img.shields.io/badge/GenAI-Diffusion%20Models-3CCCA4?style=flat&logo=pytorch&logoColor=white" alt="Generative AI Badge">
   <img src="https://img.shields.io/badge/NLP-LLMs%20%7C%20Transformers-ffcc00?style=flat&logo=huggingface&logoColor=white" alt="NLP Badge">
   <img src="https://img.shields.io/badge/CV-Segmentation%20%7C%20Detection-f97316?style=flat&logo=opencv&logoColor=white" alt="Computer Vision & GeoAI Badge">
-  <img src="https://img.shields.io/badge/MLOps-Triton%20%7C%20SageMaker-0f766e?style=flat&logo=nvidia&logoColor=white" alt="MLOps Badge">
-  <img src="https://img.shields.io/badge/Tabular%20Regression%20%7C%20Classification%20%7C%20Forecasting-Multi--Target%20%7C%20Time--Series-1255A0?style=flat&logo=scikitlearn&logoColor=white" alt="Tabular ML Badge">
+  <img src="https://img.shields.io/badge/MLOps-Triton%20%7C%20SageMaker-76B900?style=flat&logo=nvidia&logoColor=white" alt="MLOps Badge">
 </p>
 
 I build and deploy high-performance models that solve real-world problems. My approach is validated by consistent top-tier performance in global data science competitions, where I've engineered end-to-end solutions for classification, regression, and forecasting challenges. This involves the full data lifecycle: acquiring and processing data from diverse diverse sources via APIs, extensive feature engineering, and implementing sophisticated models. I leverage everything from gradient boosting machines and neural networks to advanced techniques like ensembling and multi-stage training to tackle complex problems in NLP, Computer Vision, and Generative AI.
@@ -92,10 +92,11 @@ I build and deploy high-performance models that solve real-world problems. My ap
 <details>
   <summary><b>Featured Competition Methodologies</b></summary>
   
--   **Generative AI for Geophysics (ThinkOnward) — Top 7%:** Developed a conditional **Generative Diffusion Model** (GDM) with a ViT-U-Net architecture to perform seismic velocity inversion. Delivered a fully reproducible pipeline optimized to run inference in under 1 hour on an AWS `g5.12xlarge` instance.
--   **Clinical NLP (PATH / Zindi) — Top 6%:** Fine-tuned a Large Language Model on a small, high-stakes dataset of clinical vignettes using **PEFT/LoRA** and advanced prompt engineering to replicate the decision-making of medical experts.
--   **Geospatial CV (Solafune) — Top 8%:** Built a segmentation pipeline using a **U-Net** architecture with a ResNet backbone to detect vacant lots from aerial imagery, leveraging tiling strategies and **Rasterio/GDAL** for post-processing.
--   **Geospatial Time-Series (Amini/NASA / Zindi) — Top 14%:** Utilized the **PRESTO** Geospatial Foundation Model to generate powerful embeddings from Sentinel-2 satellite time-series data, enabling accurate crop classification.
+-   **Clinical NLP (PATH / Zindi) — Top 6%:** Fine-tuned a **`google/flan-t5-base`** model for this Seq2Seq task. I engineered a structured prompt that incorporated clinician context (experience, location) with the raw medical scenario to improve response quality. The final inference pipeline utilized **beam search**, **length penalty**, and **n-gram blocking** to generate coherent, high-quality clinical responses, evaluated with the ROUGE metric.
+-   **Generative AI for Geophysics (ThinkOnward) — Top 7%:** Developed a hybrid solution by ensembling a fine-tuned <a href="https://huggingface.co/thinkonward/geophysical-foundation-model">GeoFoundation model</a> with a custom **ViT-U-Net** architecture. This dual-model approach effectively captured both broad geological patterns and fine-grained seismic details, leading to a high-accuracy model for geophysical velocity inversion.
+-   **Geospatial CV (Solafune) — Top 8%:** Deployed a **YOLOv8** model with a multi-stage training strategy on different image sizes, using **Albumentations** for robust data augmentation. Critically, to refine the dataset, I built a **custom annotation tool**, creating a human-in-the-loop pipeline for iterative data improvement and retraining, which significantly boosted model performance.
+-   **Geospatial Time-Series (Amini | NASA / Zindi) — Top 14%:** Engineered a complex data acquisition pipeline using APIs (Harvard Dataverse, Zenodo) and **Google Earth Engine** to extract multispectral features (RGB, NIR, SWIR) for given geolocations. Utilized NASA's **PRESTO** foundation model to generate powerful time-series embeddings, which then fed a **LightGBM** ensemble model with **isotonic calibration** for highly accurate crop classification. find <a href="https://www.kaggle.com/code/dagloxkankwanda/amini-geofm-decoding-the-field-challenge?scriptVersionId=252052448">Notebook here</a> and <a href="https://mega.nz/file/6PgTgQwT#aXlDE0O2a0XtzpJExg9jJaahxFAhLnDDHWmoNIwM2Vk">Methodology Paper here</a>
+-   **Soil Nutrients (Zindi) — Top 8%:** Implemented a robust **LightGBM** model to tackle the **multi-target regression** task, successfully predicting 11 distinct soil nutrient levels simultaneously from environmental and spectral data.
 </details>
 
 
@@ -107,7 +108,7 @@ I build and deploy high-performance models that solve real-world problems. My ap
     <img src="https://img.shields.io/badge/Precision%20Motion-TMC%20Drivers%20%7C%20Stepper-8b5cf6?style=flat" alt="Precision Motion Control Badge">
   <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-1255A0?style=flat&logo=c%2B%2B&logoColor=white" alt="Embedded C++ Badge">
   <img src="https://img.shields.io/badge/ROS-Real--Time%20Control-22314E?style=flat&logo=ros&logoColor=white" alt="ROS Badge">
-  <img src="https://img.shields.io/badge/Edge%20AI-CV%20on%20RPi-ff5722?style=flat&logo=raspberrypi&logoColor=white" alt="Edge AI Badge">
+  <img src="https://img.shields.io/badge/Edge%20AI-CV%20on%20RPi-C51850?style=flat&logo=raspberrypi&logoColor=white" alt="Edge AI Badge">
   <img src="https://img.shields.io/badge/CAD%20%7C%20PCB-SolidWorks%20%7C%20Altium%20%7C%20EasyEDA-22c55e?style=flat" alt="CAD/PCB Badge">
   <img src="https://img.shields.io/badge/Protocols-UART%20%7C%20I2C%20%7C%20SPI-0ea5e9?style=flat" alt="Protocols Badge">
 </p>
@@ -131,8 +132,8 @@ My background as an Electrical Engineer allow me to bridge the digital and physi
   <img src="https://cdn.simpleicons.org/siemens/009999" height="32" alt="Siemens PLC"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" alt="MATLAB"/>&nbsp;
   <img src="https://cdn.simpleicons.org/autodesk/0696D7" height="32" alt="Autodesk (AutoCAD/Inventor)"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="32" alt="SolidWorks"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altiumdesigner/altiumdesigner-original.svg" height="32" alt="Altium Designer"/>
+  <img src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000" height="32" alt="SolidWorks"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/altiumdesigner" height="32" alt="Altium Designer"/>
 </div>
 
 <details>
@@ -146,30 +147,54 @@ My background as an Electrical Engineer allow me to bridge the digital and physi
 
 ---
 
-## Software Engineering (Back-end & HPC)
+## Software Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Python-FastAPI%2FFlask-3776AB?style=flat&logo=python&logoColor=white" alt="Python Backend Badge">
-  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Java Backend Badge">
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20SQLite-336791?style=flat&logo=postgresql&logoColor=white" alt="Databases Badge">
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD Badge">
-  <img src="https://img.shields.io/badge/Packaging-Python%20Wheels-5c2d91?style=flat&logo=pypi&logoColor=white" alt="Packaging Badge">
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot%20%7C%20Maven-C82A2B?style=flat&logo=openjdk&logoColor=white" alt="Java Backend Badge">
+  <img src="https://img.shields.io/badge/Python-Qt5%20%7C%20FastAPI%20%7C%20Flask-FFCB59?style=flat&logo=springboot&logoColor=white" alt="Backend Badge">
+  <img src="https://img.shields.io/badge/High--Performance-C%2B%2B%20%7C%20Python%20Wheels-5c2d91?style=flat&logo=c%2B%2B&logoColor=white" alt="HPC Badge">
+  <img src="https://img.shields.io/badge/Data%20Engineering-Selenium%20%7C%20Scrapy-43B22C?style=flat" alt="Data Engineering Badge">
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-2496ED?style=flat&logo=docker&logoColor=white" alt="DevOps Badge">
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20SQL%20%7C%20MongoDB%20%7C%20JDBC-336791?style=flat&logo=postgresql&logoColor=white" alt="Databases Badge">
 </p>
 
--   Build robust and scalable REST services using FastAPI, Flask, and Spring Boot, following clean architecture principles with comprehensive testing and Dockerized deployments.
--   Develop automated data engineering pipelines with Selenium/Scrapy and Pandas, complete with job scheduling, logging, and monitoring.
--   Package high-performance C++ code into Python wheels using the CPython C-API for speed-critical applications.
+I develop robust, scalable, and efficient software solutions, with a deep expertise in the Java ecosystem for creating full-featured desktop and backend applications.
+
+-   **Backend & Desktop Development:** I build robust REST services using **Spring Boot**, **FastAPI**, and **Flask**, and craft rich desktop applications with **JavaFX** and **Python (Qt5)**. I adhere to clean architecture principles (**MVC**), manage dependencies with **Maven**, and ensure quality with comprehensive testing.
+-   **Automated Data Engineering:** I develop automated data pipelines using **Selenium** and **Scrapy** for web data extraction and **Pandas** for transformation, designing for reliability with integrated job scheduling, logging, and monitoring.
+-   **High-Performance Python with C++:** For speed-critical applications, I package high-performance **C++** code into Python wheels. By leveraging the **CPython C-API** and **CMake**, I create optimized modules for demanding numerical computing and ML tasks.
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="28" alt="CMake"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="32" alt="Maven"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="32" alt="Qt"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="32" alt="CMake"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
 </div>
+
+<details>
+  <summary><b>Featured Software Projects</b></summary>
+  
+-   **H2O Provider — Water Management Desktop App:** Engineered a full-featured application to digitize and centralize reports for water distribution stations, featuring a dashboard, automated reporting, and user access controls.
+    -   *Tech:* **JavaFX, MVC Architecture, Multithreading, SQLite, iTextPDF for reporting.**
+-   **G-Chimie — Networked Board Game:** Co-developed a turn-based board game with a full client-server architecture for multiplayer gameplay over a network.
+    -   *Tech:* **JavaFX, Java Sockets (Networking), MVC, Multithreading.**
+-   **Transky — Real-Time Translation Widget:** Built a standalone desktop widget for real-time speech transcription and translation by integrating with the Google Translate API.
+    -   *Tech:* **JavaFX, REST API Integration, Asynchronous Programming.**
+-   **Master Brain — Efficient Learning Software:** Developed a custom software application to aid in language learning and text memorization, designed to overcome personal learning challenges.
+    -   *Tech:* **JavaFX, SQLite, MVC, Data Binding.**
+-   **Geodes — Geometric Description Software:** Created a software tool to facilitate the creation of 2D geometric descriptive sketches from 3D projections, aimed at architects and engineers.
+    -   *Tech:* **JavaFX, Custom Geometric Algorithms, MVC.**
+-   **Short Activist Predictor — Python Package:** Collaborated on publishing a Python module for financial text analysis, managing the full packaging and deployment lifecycle.
+    -   *Tech:* **Python, PyScaffold** for packaging, **Twine** for PyPI deployment, **GitHub Actions** for CI/CD.
+</details>
 
 ---
 
