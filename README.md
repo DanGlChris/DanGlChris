@@ -301,4 +301,4 @@ I develop robust, scalable, and efficient software solutions, with a deep expert
 -   **LinkedIn:** [linkedin.com/in/daglox-kankwanda](https://linkedin.com/in/daglox-kankwanda-59a617182)
 -   **Website:** [danglchris.com](https://www.danglchris.com)
 
-<sub>Languages: 🇫🇷 French (Native) • 🇨🇩 Lingala (Native) • 🇬🇧 English • 🇷🇺 Russian</sub>
+<sub>Languages: 🇫🇷 French (Native) • 🇨🇩 Lingala (Native) • 🇺🇸 English • 🇷🇺 Russian</sub>
