@@ -95,7 +95,7 @@ I build and deploy high-performance models that solve real-world problems. My ap
 -   **Clinical NLP (PATH / Zindi) — Top 6%:** Fine-tuned a **`google/flan-t5-base`** model for this Seq2Seq task. I engineered a structured prompt that incorporated clinician context (experience, location) with the raw medical scenario to improve response quality. The final inference pipeline utilized **beam search**, **length penalty**, and **n-gram blocking** to generate coherent, high-quality clinical responses, evaluated with the ROUGE metric.
 -   **Generative AI for Geophysics (ThinkOnward) — Top 7%:** Developed a hybrid solution by ensembling a fine-tuned <a href="https://huggingface.co/thinkonward/geophysical-foundation-model">GeoFoundation model</a> with a custom **ViT-U-Net** architecture. This dual-model approach effectively captured both broad geological patterns and fine-grained seismic details, leading to a high-accuracy model for geophysical velocity inversion.
 -   **Geospatial CV (Solafune) — Top 8%:** Deployed a **YOLOv8** model with a multi-stage training strategy on different image sizes, using **Albumentations** for robust data augmentation. Critically, to refine the dataset, I built a **custom annotation tool**, creating a human-in-the-loop pipeline for iterative data improvement and retraining, which significantly boosted model performance.
--   **Geospatial Time-Series (Amini | NASA / Zindi) — Top 14%:** Engineered a complex data acquisition pipeline using APIs (Harvard Dataverse, Zenodo) and **Google Earth Engine** to extract multispectral features (RGB, NIR, SWIR) for given geolocations. Utilized NASA's **PRESTO** foundation model to generate powerful time-series embeddings, which then fed a **LightGBM** ensemble model with **isotonic calibration** for highly accurate crop classification. find <a href="https://www.kaggle.com/code/dagloxkankwanda/amini-geofm-decoding-the-field-challenge?scriptVersionId=252052448">Notebook here</a> and <a href="https://mega.nz/file/6PgTgQwT#aXlDE0O2a0XtzpJExg9jJaahxFAhLnDDHWmoNIwM2Vk">Methodology Paper here</a>
+-   **Geospatial Time-Series (Amini | NASA / Zindi) — Top 14%:** Engineered a complex data acquisition pipeline using APIs (Harvard Dataverse, Zenodo) and **Google Earth Engine** to extract multispectral features (RGB, NIR, SWIR) for given geolocations. Utilized NASA's **PRESTO** foundation model to generate powerful time-series embeddings, which then fed a **LightGBM** ensemble model with **isotonic calibration** for highly accurate crop classification. find <a href="https://www.kaggle.com/code/dagloxkankwanda/amini-geofm-decoding-the-field-challenge?scriptVersionId=252052448">Notebook</a> and <a href="https://mega.nz/file/6PgTgQwT#aXlDE0O2a0XtzpJExg9jJaahxFAhLnDDHWmoNIwM2Vk">Methodology Paper</a>
 -   **Soil Nutrients (Zindi) — Top 8%:** Implemented a robust **LightGBM** model to tackle the **multi-target regression** task, successfully predicting 11 distinct soil nutrient levels simultaneously from environmental and spectral data.
 </details>
 
@@ -198,32 +198,60 @@ I develop robust, scalable, and efficient software solutions, with a deep expert
 
 ---
 
-## 🏆 Competitive Achievements
+## 🏆 Competitive Achievements in 2025
 
-| Competition | Domain | Rank | Placement |
-| :--- | :--- | :---: | :--- |
-| **PATH (Zindi)** | Clinical NLP / LLMs | **22 / 387** | `Top 6%` |
-| **ThinkOnward** | Geophysics / Diffusion | **27 / 386** | `Top 7%` |
-| **Solafune** | GeoAI / CV Segmentation | **32 / 447** | `Top 8%` |
-| **Soil Nutrients (Zindi)** | Tabular / Multi-target Regression | **26 / 308**| `Top 8%` |
-| **Amini/NASA GeoFM** | GeoAI / Time-Series Classification | **18 / 137** | `Top 14%` |
+| Competition Title | Platform & Host | Domain | Rank | Placement |
+| :--- | :--- | :--- | :---: | :--- |
+| [LLM for Clinical Decision Support](https://zindi.africa/competitions/kenya-clinical-reasoning-challenge/leaderboard) | Zindi / PATH | Clinical NLP / LLMs | **22 / 387** | `🥇 Top 6%` |
+| [Generative AI for Geophysics](https://thinkonward.com/app/c/challenges/speed-and-structure/leaderboard) | ThinkOnward | Geophysics / Diffusion Models | **27 / 386** | `🥇 Top 7%` |
+| [Vacant Lot Detection](https://solafune.com/competitions/5026f2e0-0821-4b02-b09b-78b178482028?menu=lb&tab=private) | Solafune | GeoAI / CV Segmentation | **32 / 447** | `🥇 Top 8%` |
+| [Amini Soil Prediction Challenge](https://zindi.africa/competitions/amini-soil-prediction-challenge/leaderboard) | Zindi / Amini | Tabular / Multi-target Regression | **26 / 308**| `🥇 Top 8%` |
+| [Amini GeoFM Decoding the Field Challenge](https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge/leaderboard) | Zindi / Amini & NASA | GeoAI / Time-Series | **18 / 137** | `🥈 Top 14%` |
 
 ---
 
-## 📦 Featured Projects & Packages
+## Featured Projects & Packages
 
--   **Short Activist Predictor** — Published a Python module on PyPI and a corresponding model on Hugging Face for financial text classification.
-    -   *Tech:* BERTopic, scikit-learn, PyScaffold, GitHub Actions for CI/CD.
-    -   *Links:* [PyPI Package](https://pypi.org/project/[Your-PyPI-Package-Name]/) • [Hugging Face Model](https://huggingface.co/[Your-Username]/[Your-Model-Name]) • [GitHub Repo](https://github.com/DanGlChris/[Your-Repo-Name])
--   **GeoFM Crop Classification** — Implemented a PRESTO embeddings pipeline for time-series Sentinel-2 data, effectively handling class imbalance.
-    -   *Tech:* PRESTO, PyTorch, Rasterio/GDAL, GeoPandas.
-    -   *Links:* [GitHub Repo](https://github.com/DanGlChris/[Your-GeoFM-Repo])
--   **Seismic Velocity Inversion** — Developed a conditional diffusion model (ViT-U-Net) for the ThinkOnward challenge, optimized for inference on AWS.
-    -   *Tech:* PyTorch, ViT, U-Net, NumPy.
-    -   *Links:* [GitHub Repo](https://github.com/DanGlChris/[Your-Seismic-Repo])
--   **Transky** — A real-time speech transcription and translation desktop application built with JavaFX.
-    -   *Tech:* JavaFX, MVC, REST APIs.
+-   **Hypersphere-based Fuzzy SVM Classifier (Independent Research)** — Implementing a novel classification algorithm from an Arxiv research paper to effectively handle high class imbalance and noise.
+    -   *Tech:* **C/C++, Python (CPython API), CMake, Scikit-learn (Integration), Fuzzy Logic.**
+    -   *Links:* [GitHub Repo]([URL_TO_YOUR_SVM_REPO]) (In Progress)
+-   **GeoFM Crop Classification** — My 🥈 Top 14% solution for the Amini/NASA competition, involving a complex data pipeline and foundation model.
+    -   *Tech:* **NASA PRESTO, PyTorch, Google Earth Engine, LightGBM, GeoPandas.**
+    -   *Links:* [Kaggle Notebook](https://www.kaggle.com/code/dagloxkankwanda/amini-geofm-decoding-the-field-challenge?scriptVersionId=252052448) • [Methodology Paper](https://mega.nz/file/6PgTgQwT#aXlDE0O2a0XtzpJExg9jJaahxFAhLnDDHWmoNIwM2Vk)
+-   **Exploratory Analysis of Startup Failures** — An EDA project analyzing a dataset of failed startups to identify key contributing factors through data visualization.
+    -   *Tech:* **Python, Pandas, Kaggle Notebooks, Data Visualization.**
+    -   *Links:* [Kaggle Notebook]([URL_TO_YOUR_STARTUP_NOTEBOOK])
+-   **Short Activist Predictor** — A published Python module and Hugging Face model for financial text classification.
+    -   *Tech:* **BERTopic, scikit-learn, PyScaffold, GitHub Actions (CI/CD), PyPI.**
+    -   *Links:* [PyPI Package](https://pypi.org/project/short-activist-predictor/) • [Hugging Face Model](https://huggingface.co/DanGlChris/short-activist-predictor) • [GitHub Repo](https://github.com/DanGlChris/short-activist-predictor)
+
+-   **High-Precision Industrial Manipulator** — My final academic project, a complete control system for industrial manipulators.
+    -   *Tech:* **C++, ATmega32U4 Firmware, TMC2130 Driver, SPI, Control Theory, SolidWorks.**
+    -   *Links:* [Technical Article](https://www.linkedin.com/pulse/high-precision-control-system-industrial-manipulators-kankwanda-7hxac/) • [GitHub Repo](https://github.com/DanGlChris/Control-System-with-Stepper-Motor-and-TMC2130-)
+
+<details>
+  <summary><b>Other projects</b></summary>
+  
+-   **Design Trend Analysis via Notion API** — An end-to-end data project to extract data from Notion, analyze market trends for package design, and visualize insights.
+    -   *Tech:* **Python, Notion API, Pandas, Data Analysis, Matplotlib/Seaborn.**
+    -   *Links:* [Kaggle Notebook]([URL_TO_YOUR_NOTION_NOTEBOOK])
+-   **Custom Flight Controller Drone** — A quadcopter built from scratch with custom flight control firmware.
+    -   *Tech:* **C++, Arduino, IMU Sensor Fusion, PID Control Loops, Real-Time Programming.**
+    -   *Links:* [GitHub Repo]([URL_TO_YOUR_DRONE_REPO])
+-   **ROS-Enabled Reconnaissance Rover** — A revitalized 6-wheel mobile robot with a full ROS stack for telemetry and remote operation.
+    -   *Tech:* **ROS, Python, C++, Arduino, Motor Drivers (IBT-2).**
+    -   *Links:* [GitHub Repo]([URL_TO_YOUR_ROVER_REPO])
+-   **Transky** — A real-time speech transcription and translation desktop widget.
+    -   *Tech:* **JavaFX, REST API Integration, Asynchronous Programming.**
     -   *Links:* [GitHub Repo](https://github.com/DanGlChris/Transky)
+-   **G-Chimie** — A networked multiplayer board game with a full client-server architecture.
+    -   *Tech:* **JavaFX, Java Sockets (Networking), MVC, Multithreading.**
+    -   *Links:* [GitHub Repo](https://github.com/DanGlChris/G-chimie)
+
+-   **H2O Provider** — A complete water management desktop application with a dashboard, automated reporting, and user access controls.
+    -   *Tech:* **JavaFX, MVC Architecture, Multithreading, SQLite, iTextPDF.**
+    -   *Links:* [GitHub Repo](https://github.com/DanGlChris/H2O-Provider)
+</details>
 
 ---
 
