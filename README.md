@@ -11,7 +11,7 @@
     <h3>Electrical & Software Engineer bridging the gap between hardware, software, and AI.</h3>
     <p>
         <a href="https://github.com/DanGlChris">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=4000&pause=500&color=1255A0&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Generative+AI;Robotics+%26+Control+Systems;High-Performance+C%2B%2B+%2F+Python;Full-Stack+Java+Development" alt="Typing SVG"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=4000&pause=500&color=1255A0&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Generative+AI;Robotics+%26+Control+Systems;High-Performance+C%2B%2B+%2F+Python;Full-Stack+Development" alt="Typing SVG"/>
         </a>
     </p>
     <p>
@@ -102,7 +102,7 @@ I build and deploy high-performance models that solve real-world problems. My ap
 
 ---
 
-# Robotics & Control Systems
+## Robotics & Control Systems
 
 <p>
   <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-1255A0?style=flat&logo=c%2B%2B&logoColor=white" alt="Embedded C++ Badge">
