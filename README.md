@@ -54,7 +54,7 @@ I thrive at the intersection of these engineering domains, building complete, in
     </td>
     <td align="center">
       <strong>Software Engineering</strong><br/>
-      <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22API%20Design%22%2C%22Java%20Backend%22%2C%22Python%20Backend%22%2C%22Low-Level%20(C%2B%2B)%22%2C%22Architecture%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Mastery%22%2C%22data%22%3A%5B79%2C86%2C95%2C72%2C82%5D%2C%22backgroundColor%22%3A%22rgba(18%2C%2085%2C%20160%2C%200.4)%22%2C%22borderColor%22%3A%22rgba(249%2C%20127%2C%2052%2C%201)%22%2C%22borderWidth%22%3A2%2C%22pointBackgroundColor%22%3A%22rgba(249%2C%20127%2C%2052%2C%201)%22%7D%5D%7D%2C%22options%22%3A%7B%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%2C%22backdropColor%22%3A%22transparent%22%2C%22fontColor%22%3A%22white%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22white%22%2C%22fontSize%22%3A18%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba(255%2C%20255%2C%20255%2C%200.2)%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba(255%2C%20255%2C%20255%2C%200.2)%22%7D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D" alt="Software Engineering Skills Chart" width="350"/>
+      <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22API%20Design%22%2C%22Java%20Backend%22%2C%22Low-Level%20(C%2B%2B)%22%2C%22Python%20Backend%22%2C%22Architecture%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Mastery%22%2C%22data%22%3A%5B79%2C86%2C72%2C95%2C82%5D%2C%22backgroundColor%22%3A%22rgba(18%2C%2085%2C%20160%2C%200.4)%22%2C%22borderColor%22%3A%22rgba(249%2C%20127%2C%2052%2C%201)%22%2C%22borderWidth%22%3A2%2C%22pointBackgroundColor%22%3A%22rgba(249%2C%20127%2C%2052%2C%201)%22%7D%5D%7D%2C%22options%22%3A%7B%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%2C%22backdropColor%22%3A%22transparent%22%2C%22fontColor%22%3A%22white%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22white%22%2C%22fontSize%22%3A18%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba(255%2C%20255%2C%20255%2C%200.2)%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba(255%2C%20255%2C%20255%2C%200.2)%22%7D%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%7D" alt="Software Engineering Skills Chart" width="350"/>
     </td>
   </tr>
 </table>
@@ -105,8 +105,8 @@ I build and deploy high-performance models that solve real-world problems. My ap
 # Robotics & Control Systems
 
 <p>
-    <img src="https://img.shields.io/badge/Precision%20Motion-TMC%20Drivers%20%7C%20Stepper-8b5cf6?style=flat" alt="Precision Motion Control Badge">
   <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-1255A0?style=flat&logo=c%2B%2B&logoColor=white" alt="Embedded C++ Badge">
+  <img src="https://img.shields.io/badge/Precision%20Motion-TMC%20Drivers%20%7C%20Stepper-8b5cf6?style=flat" alt="Precision Motion Control Badge">
   <img src="https://img.shields.io/badge/ROS-Real--Time%20Control-22314E?style=flat&logo=ros&logoColor=white" alt="ROS Badge">
   <img src="https://img.shields.io/badge/Edge%20AI-CV%20on%20RPi-C51850?style=flat&logo=raspberrypi&logoColor=white" alt="Edge AI Badge">
   <img src="https://img.shields.io/badge/CAD%20%7C%20PCB-SolidWorks%20%7C%20Altium%20%7C%20EasyEDA-22c55e?style=flat" alt="CAD/PCB Badge">
@@ -210,37 +210,35 @@ I develop robust, scalable, and efficient software solutions, with a deep expert
 
 ---
 
-## Featured Projects & Packages
+## Recents Featured Projects & Packages
 
--   **Hypersphere-based Fuzzy SVM Classifier (Independent Research)** — Implementing a novel classification algorithm from an Arxiv research paper to effectively handle high class imbalance and noise.
-    -   *Tech:* **C/C++, Python (CPython API), CMake, Scikit-learn (Integration), Fuzzy Logic.**
-    -   *Links:* [GitHub Repo]([URL_TO_YOUR_SVM_REPO]) (In Progress)
--   **GeoFM Crop Classification** — My 🥈 Top 14% solution for the Amini/NASA competition, involving a complex data pipeline and foundation model.
+-   **Hypersphere-based Fuzzy SVM Classifier (Independent Research)** — Implementing a novel classification algorithm to effectively handle high class imbalance and noise.
+    -   *Tech:* **C/C++, Python (CPython API | Pytorch), CMake, Scikit-learn (Integration), Fuzzy Logic.**
+    -   *Links:* [Hyperion Fuszzy](https://github.com/DanGlChris/hyperion-fuzzy) (In Progress)
+-   **GeoFM Crop Classification** — The solution for the Amini/NASA competition, involving a complex data pipeline and foundation model.
     -   *Tech:* **NASA PRESTO, PyTorch, Google Earth Engine, LightGBM, GeoPandas.**
-    -   *Links:* [Kaggle Notebook](https://www.kaggle.com/code/dagloxkankwanda/amini-geofm-decoding-the-field-challenge?scriptVersionId=252052448) • [Methodology Paper](https://mega.nz/file/6PgTgQwT#aXlDE0O2a0XtzpJExg9jJaahxFAhLnDDHWmoNIwM2Vk)
--   **Exploratory Analysis of Startup Failures** — An EDA project analyzing a dataset of failed startups to identify key contributing factors through data visualization.
+    -   *Links:* [Notebook](https://www.kaggle.com/code/dagloxkankwanda/amini-geofm-decoding-the-field-challenge?scriptVersionId=252052448) • [Methodology Paper](https://mega.nz/file/6PgTgQwT#aXlDE0O2a0XtzpJExg9jJaahxFAhLnDDHWmoNIwM2Vk)
+-   **Exploratory Analysis of Startup Failures (Downloads 2700+)** — An EDA project analyzing a dataset of failed startups to identify key contributing factors through data visualization.
     -   *Tech:* **Python, Pandas, Kaggle Notebooks, Data Visualization.**
-    -   *Links:* [Kaggle Notebook]([URL_TO_YOUR_STARTUP_NOTEBOOK])
+    -   *Links:* [Notebook](https://www.kaggle.com/code/dagloxkankwanda/startup-failures-overviews/notebook)• [Startup Failures Dataset](https://www.kaggle.com/datasets/dagloxkankwanda/startup-failures)
 -   **Short Activist Predictor** — A published Python module and Hugging Face model for financial text classification.
     -   *Tech:* **BERTopic, scikit-learn, PyScaffold, GitHub Actions (CI/CD), PyPI.**
     -   *Links:* [PyPI Package](https://pypi.org/project/short-activist-predictor/) • [Hugging Face Model](https://huggingface.co/DanGlChris/short-activist-predictor) • [GitHub Repo](https://github.com/DanGlChris/short-activist-predictor)
 
 -   **High-Precision Industrial Manipulator** — My final academic project, a complete control system for industrial manipulators.
-    -   *Tech:* **C++, ATmega32U4 Firmware, TMC2130 Driver, SPI, Control Theory, SolidWorks.**
+    -   *Tech:* **C++, Python (Qt5), ATmega32U4 Firmware, TMC2130 Driver, Nema, SPI, Control Theory, Inventor.**
     -   *Links:* [Technical Article](https://www.linkedin.com/pulse/high-precision-control-system-industrial-manipulators-kankwanda-7hxac/) • [GitHub Repo](https://github.com/DanGlChris/Control-System-with-Stepper-Motor-and-TMC2130-)
 
 <details>
   <summary><b>Other projects</b></summary>
-  
+
 -   **Design Trend Analysis via Notion API** — An end-to-end data project to extract data from Notion, analyze market trends for package design, and visualize insights.
     -   *Tech:* **Python, Notion API, Pandas, Data Analysis, Matplotlib/Seaborn.**
-    -   *Links:* [Kaggle Notebook]([URL_TO_YOUR_NOTION_NOTEBOOK])
+    -   *Links:* [Kaggle Notebook](https://www.kaggle.com/code/dagloxkankwanda/packaging-design-analysis)
 -   **Custom Flight Controller Drone** — A quadcopter built from scratch with custom flight control firmware.
     -   *Tech:* **C++, Arduino, IMU Sensor Fusion, PID Control Loops, Real-Time Programming.**
-    -   *Links:* [GitHub Repo]([URL_TO_YOUR_DRONE_REPO])
 -   **ROS-Enabled Reconnaissance Rover** — A revitalized 6-wheel mobile robot with a full ROS stack for telemetry and remote operation.
     -   *Tech:* **ROS, Python, C++, Arduino, Motor Drivers (IBT-2).**
-    -   *Links:* [GitHub Repo]([URL_TO_YOUR_ROVER_REPO])
 -   **Transky** — A real-time speech transcription and translation desktop widget.
     -   *Tech:* **JavaFX, REST API Integration, Asynchronous Programming.**
     -   *Links:* [GitHub Repo](https://github.com/DanGlChris/Transky)
@@ -255,17 +253,15 @@ I develop robust, scalable, and efficient software solutions, with a deep expert
 
 ---
 
-## 🎓 Certifications & Publications
+## Certifications & Publications
 
--   **NVIDIA DLI** — Deploying Models for Inference with Triton (2025)
--   **Technical Report** — “GeoFM for Crop Classification” (2025)
--   **Kaggle Dataset & Notebook** — “Startup Failure Analysis” (2025)
--   **Hackathon** — HAGORA HACK (3rd Place), 2022
--   **Data Science** — Analyze Data with Python (2021)
+-   **NVIDIA Certified Professional - AI Operations (NCP-AIO)** (2025)
+-   **Publication:** ["High-Precision Control System for Industrial Manipulators"](https://www.linkedin.com/pulse/high-precision-control-system-industrial-manipulators-kankwanda-7hxac/) (2025)
+-   **Publication:** ["GeoFM for Crop Classification - Methodology Paper"](https://mega.nz/file/6PgTgQwT#aXlDE0O2a0XtzpJExg9jJaahxFAhLnDDHWmoNIwM2Vk) (2025)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <table width="100%">
   <tr>
@@ -298,9 +294,6 @@ I develop robust, scalable, and efficient software solutions, with a deep expert
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanGlChris&hide_border=true&theme=github-compact" alt="activity graph" />
-</p>
 
 ---
 
