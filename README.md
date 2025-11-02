@@ -40,7 +40,7 @@
 
 ### My Core Competencies
 
-I thrive at the intersection of these engineering domains, building complete, intelligent systems from the ground up.
+I thrive at the intersection of engineering domains, building complete, intelligent systems from the ground up.
 
 <table>
   <tr>
