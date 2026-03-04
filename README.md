@@ -212,6 +212,14 @@ I develop robust, scalable, and efficient software solutions, with a deep expert
 
 ## Recents Featured Projects & Packages
 
+-   **Golden Gauss AI: Predictive ML System for Gold Markets** — An Expert Advisor for XAUUSD employing instantaneous probability inference through Gradient Boosting with 239 engineered features for autonomous trade execution.
+    -   *Tech:* **Python, Gradient Boosting, ONNX, MQL5, MetaTrader 5, Feature Engineering.**
+    -   *Links:* [MQL5 Market](https://www.mql5.com/en/market/product/164091?source=External) • [Research Paper](https://zenodo.org/records/18646499)
+    -   *Validation:* 13-month out-of-sample walk-forward test (Jan 2025-Jan 2026) achieving ~83.67% directional accuracy at 88% probability threshold.
+-   **Fine-Grained Animal Species Identification Benchmark** — A Kaggle benchmark evaluating Multimodal LLMs on expert-level biological classification across 1,764 species and 35,000+ iNaturalist observations.
+    -   *Tech:* **Kaggle Benchmarks, LLM Evaluation, Multimodal AI, Biological Taxonomy, Two-Stage Verification (LLM Judge).**
+    -   *Links:* [Benchmark Task](https://www.kaggle.com/benchmarks/tasks/dagloxkankwanda/find-best-species-identifier) • [Implementation Notebook](https://www.kaggle.com/code/dagloxkankwanda/animal-identification-benchmark)
+    -   *Recognition:* Featured in [**Kaggle's Task Tuesday**](https://www.kaggle.com/benchmarks/kaggle/kaggles-task-tuesday-benchmark) spotlight recognizing exceptional community contributions.
 -   **Hypersphere-based Fuzzy SVM Classifier (Independent Research)** — Implementing a novel classification algorithm to effectively handle high class imbalance and noise.
     -   *Tech:* **C/C++, Python (CPython API | Pytorch), CMake, Scikit-learn (Integration), Fuzzy Logic.**
     -   *Links:* [Hyperion Fuszzy](https://github.com/DanGlChris/hyperion-fuzzy) (In Progress)
