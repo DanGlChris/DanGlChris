@@ -259,6 +259,7 @@ I develop robust, scalable, and efficient software solutions, with a deep expert
 -   **Publication:** ["High-Precision Control System for Industrial Manipulators"](https://www.linkedin.com/pulse/high-precision-control-system-industrial-manipulators-kankwanda-7hxac/) (2025)
 -   **Publication:** ["GeoFM for Crop Classification - Methodology Paper"](https://mega.nz/file/6PgTgQwT#aXlDE0O2a0XtzpJExg9jJaahxFAhLnDDHWmoNIwM2Vk) (2025)
 -   **Publication:** ["A Hybrid Two-Stage Ensemble Framework for Detecting and Quantifying Energy Flexibility in Buildings"](https://zenodo.org/records/17560059) (2025)
+-   **Publication:** ["Golden Gauss AI: A Predictive Machine Learning System for Probability-Based Trade Execution in Gold Markets"](https://zenodo.org/records/18646499) (2026)
 
 ---
 
